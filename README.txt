@@ -1,0 +1,1 @@
+Taz 6 is the first printer we have. We have both dual and single head extruder. There's a bunch of info about the printer in each printer's folder.
