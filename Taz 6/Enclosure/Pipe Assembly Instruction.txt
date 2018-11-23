@@ -1,0 +1,23 @@
+1. Buy all materials as instructed in BOM
+2. Take a look at assembly outline image, so you have an idea of what you're building
+3. Cut the pipe as follows
+Pipes (all lengths in mm):
+A = 225, x1
+B = 460, x2
+C = 800, x2
+D = 350, x2
+E = 510, x4
+(ex: one of 225mm pipe, two of 460mm pipes, etc.)
+4. Print the parts in joints as follows
+Joints:
+1, x2
+2, x2
+3, x4
+4, x2
+(ex: two of 1.stl, two of 2.stl, etc)
+5. Mix the epoxy and glue the joints to the pipes according to assembly outline to make the enclosure frame
+The only part that shouldn't be glued is the C-pipe to the 2-joint, since that is supposed to slide along the C-pipe
+Don't worry if the pipe is loose on the joint; I dimensioned the hole a bit big to accomodate for different printers' tolerances, so just use extra epoxy
+If you want to connect two pipes together, use pipe connector in joints folder
+6. When all epoxy is cured, wrap plastic sheet around the frame
+Tape plastic sheet where neccessary, or poke small holes and use zipties
