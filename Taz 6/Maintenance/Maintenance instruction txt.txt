@@ -1,0 +1,18 @@
+Monthly Maintenance 
+? Check your belt tension. ?The belts should be tight enough that they feel tight when pressing down on the midpoint of the belt run.?? To tighten the belt loosen one belt anchor and pull on the belt to tighten, then secure and test. Make sure that the axis movement is smooth and without binding. 
+? Wipe down the smooth rods. The bearings/bushings we use do not need to be lubricated- the IGUS bearings are self-lubricating. ?Wiping the smooth rods with a clean dry cloth is suggested. 
+? Lightly lubricate and clean the threaded rods. Do not use anything petroleum based. ?Silicone based or lithium based grease is recommended. Clean the threaded rods by running the axis up and down while wiping the threads. 
+? Use compressed air to blow out the fan/control box while powered down. 
+Additional monthly maintenance
+? Clean bed with ~20% isopropyl/~80% water solution wipe, then clean water wipe, then dry wipe, then fine grit (800~1500) sandpaper.
+? Heat nozzles to around 100~180C, then use wet tissue to wipe nozzle to clean them.
+? Clean desk from filament bits, put stuff back to their areas.
+ 
+Quarterly Maintenance 
+ 
+? Check the set screws on the stepper motor pulleys and the small gear on the extruder, tighten if necessary. Use of a mild thread locking compound is acceptable. 
+? Examine the threaded rod couplers. On the AO-100/AO-101 make sure the clamps and set screws are secure. TAZ users should make sure the hose clamps are tight. 
+? Verify that any frame screws are tight. 
+? Check for software updates. Update Cura LulzBot Edition at LulzBot.com/Cura. Slic3r can be found at Slicer.org and Printrun can be found at Github.com/Kliment/Printrun. 
+ 
+Source: https://www.lulzbot.com/maintaining-your-3d-printer 
