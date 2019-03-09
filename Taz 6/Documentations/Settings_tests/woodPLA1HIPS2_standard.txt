@@ -1,0 +1,9 @@
+Current Problem: scarring from HIPS hot end on wood PLA
+Trying: Varying temperatures
+W H
+170 240
+190 210
+190 210
+190 200 
+200 200 <- stella try this pls
+200 210 <- stella try this pls
