@@ -4,7 +4,6 @@ TODO:
 
 - print a bunch of brain tokens, in wood/blue/black
 - print 2 wood pelvis
-- make sd card holder
 - get stella's documentation and add to it
 - buy new pei bed sheet and replace current sheet
 - nylon single profile
