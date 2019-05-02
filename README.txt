@@ -11,3 +11,5 @@ TODO:
 - pla profile
 - try pva again
 - take out the trash
+- get fitted for mask
+- print spool holder
