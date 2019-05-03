@@ -1,3 +1,3 @@
-Find a model, getting printing profile, slicing, removing item from bed, safety
-Area explanation, safety, removing support, cleaning bed, changing filament, swapping extruder head, troubleshooting
+Find a model, getting printing profile, slicing
+Changing filament, remove from bed, remove support, limonene, flashing firmware, trouble to look out for
 Blender basics, stitching models together
