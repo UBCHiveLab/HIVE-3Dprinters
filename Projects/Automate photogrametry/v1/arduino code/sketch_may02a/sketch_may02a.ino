@@ -12,8 +12,8 @@
 #define STEPS 32
 Stepper stepper(STEPS, 8, 10, 9, 11);
 // 2048 steps per 360 deg => 32 steps per 5.625 deg 
-int stepVal = 32;
-//int stepVal = 512; // higher num for testing
+//int stepVal = 32;
+int stepVal = 512; // higher num for testing
 bool stepperState = false; // set to not moving initially
 int currentStep = 0; // set to zero initially
 int totalStep = 2048;
