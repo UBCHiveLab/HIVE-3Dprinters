@@ -13,4 +13,5 @@ TODO:
 - take out the trash
 - get fitted for mask
 - print spool holder
-- buy painter's knife
+- finish workshop
+- buy painter's knife, buy a bunch of stuff
