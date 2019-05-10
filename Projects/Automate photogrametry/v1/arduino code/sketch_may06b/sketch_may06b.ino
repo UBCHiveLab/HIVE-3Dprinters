@@ -31,7 +31,7 @@ int wait = 1000;
 void setup() {
   // set up motor
   Serial.begin(9600);
-  stepper.setSpeed(200);
+  stepper.setSpeed(50);
 
   // set up complete rotation led
   pinMode(ledPin1, OUTPUT);
