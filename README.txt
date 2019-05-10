@@ -12,7 +12,4 @@ TODO:
 - try pva again
 - take out the trash
 - get fitted for mask
-- print spool holder
-- finish workshop
-- buy painter's knife, buy a bunch of stuff (talk to claudia)
 - maybe prepare a new space for sla printer (talk to claudia)
