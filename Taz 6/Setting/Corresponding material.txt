@@ -1,0 +1,10 @@
+abs1HIPS2_highD - ABS (Village Plastics) - HIPS (Village Plastics)
+abs1HIPS2_highD_friend - ABS (Village Plastics) - HIPS (Village Plastics)
+naturalNYLON_detail - Bridge Nylon (Taulman)
+PLA_fast - PLA (Village Plastics)
+pla1hips2_highSpeed - PLA (Village Plastics) - HIPS (Village Plastics)
+whiteABS_detail - ABS (Village Plastics)
+whitePLA_standard - PLA (Village Plastics)
+woodPLA_standard - PLA (Village Plastics)
+woodPla1hips2_standard - PLA (Village Plastics) - HIPS (Village Plastics)
+
