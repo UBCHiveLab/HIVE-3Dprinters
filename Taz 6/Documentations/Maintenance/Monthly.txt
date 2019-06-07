@@ -10,3 +10,4 @@ Date(ddmmyy)/Maintenance Taken/Performed by/Note
 280219/"/"/also cleaned bed
 310319/all, air replaced by cleaning w brush/juyeong/
 010519/mo. except air/friend/
+060619/none/friend/printer was out of commission from may23 to june4 so i'll combine may and june maintenance and do it at end of june
