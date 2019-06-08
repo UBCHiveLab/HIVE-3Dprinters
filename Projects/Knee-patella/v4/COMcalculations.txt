@@ -1,0 +1,18 @@
+#calculate distance from knee "hinge" for a specific mass to be 
+#so to closest simualate real avg woman leg's inertia
+
+#numbers
+#http://www.orthonline.dundee.ac.uk/DLS/Orthopaedics%20Rehabilitation%20Technology/Module%20Group%202/Unit%201%20-%20Biomecahnical%20Analysis/files/assets/downloads/publication.pdf
+#not as clear to read but ok too -> http://jestec.taylors.edu.my/Vol%2011%20issue%202%20February%202016/Volume%20(11)%20Issue%20(2)%20166-%20176.pdf
+
+#numbers from connor
+m_woman = 65; #avg woman mass (kg)
+m_legAndFoot = .05; #ratio of 1 leg and 1 foot to whole body (unitless)
+com_legAndFoot = .52; #ratio location of centre of mass of leg to leg len, counting from knee (unitless)
+h_woman = 1.62; #avg woman height (m)
+l_legAndFoot = .285; #ratio of leg and foot len to body len (unitless), can be treated at slender rod
+
+#approximate as evenly distributed rod
+#I = ml^2 / 3
+i_woman = m_woman*w_legAndFoot * 
+
