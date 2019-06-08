@@ -1,0 +1,35 @@
+' ******************************************************************************
+' swxJRNL.swj - journal recorded on 03/23/18 by EMLAdmin
+' *****************************************************************************
+Dim swApp As Object
+
+Dim Part As Object
+Dim boolstatus As Boolean
+Dim longstatus As Long, longwarnings As Long
+
+Sub main()
+
+Set swApp = Application.SldWorks
+
+swApp.ActivateDoc2 "case.SLDPRT", False, longstatus
+Set Part = swApp.ActiveDoc
+Set Part = swApp.ActiveDoc
+Dim myModelView As Object
+Set myModelView = Part.ActiveView
+myModelView.FrameLeft = 0
+myModelView.FrameTop = 22
+Set myModelView = Part.ActiveView
+myModelView.FrameWidth = 1845
+myModelView.FrameHeight = 882
+boolstatus = Part.Extension.SketchBoxSelect("0.000000", "0.000000", "0.000000", "0.000000", "0.000000", "0.000000")
+' MSGBOX
+' Triangles: 3518
+' File Size: 175984 (Bytes)
+' File Format: Binary
+' Save G:\JUYEONG\DIGITALGLASS\CAMERAHOLDERV3\CASE.STL?
+
+
+' Save As
+longstatus = Part.SaveAs3("G:\Juyeong\DigitalGlass\CameraHolderV3\case.STL", 0, 0)
+swApp.ExitApp
+End Sub
