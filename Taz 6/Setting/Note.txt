@@ -1,0 +1,1 @@
+whiteABS_detail : use glue (at least 2 layer coat on bed), use enclosure, avoid footprint larger than ~20000mm^2, lower z offset by 0.1
