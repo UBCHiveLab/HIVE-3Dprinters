@@ -9,11 +9,13 @@
 #define STEPSPERREV 200
 Stepper stepper(STEPSPERREV, 9, 10, 11, 12);
 // 200 steps per 360 deg => 3 steps per 5.4 deg 
-int stepVal = 3;
-//int stepVal = 50; // higher num for testing
+//int stepVal = 50;
+int stepVal = 50; // higher num for testing
+//int stepVal = 200; // higher num for testing
 bool stepperState = false; // set to not moving initially
 int currentStep = 0; // set to zero initially
 int totalStep = STEPSPERREV;
+int stepperSpeed = 200;
 
 // define complete rotation led output
 int ledPin1 = 7;
@@ -31,7 +33,7 @@ int wait = 1000;
 void setup() {
   // set up motor
   Serial.begin(9600);
-  stepper.setSpeed(50);
+  stepper.setSpeed(stepperSpeed);
 
   // set up complete rotation led
   pinMode(ledPin1, OUTPUT);
@@ -50,12 +52,16 @@ void setup() {
 
 void loop() {
   if (stepperState) {
-    stepperState = false;
     digitalWrite(ledPin2, HIGH);
     digitalWrite(ledPin2, LOW);
+    Serial.println("begin stepping");
     stepper.step(stepVal);
+    Serial.println((String)"amount stepped " + stepVal);
     digitalWrite(ledPin2, HIGH);
     currentStep += stepVal;
+    Serial.println((String)"current step " + currentStep);
+    delay(800); // Account for duplicate press
+    stepperState = false;
   }
   
   if (currentStep >= totalStep) {
@@ -70,5 +76,6 @@ void loop() {
 }
 
 void moveStepper() {
+  Serial.println("button pushed");
   stepperState = true;
 }
