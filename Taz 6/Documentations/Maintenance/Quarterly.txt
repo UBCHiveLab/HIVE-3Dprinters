@@ -3,3 +3,4 @@ Date(ddmmyy)/Maintenance Taken/Performed by/Note
 221218/"/"/also alcohol clean&sand bed
 300319/all except cura update/friend/bed cleaning-didn't update cura for stability
 240619/all except cura update/friend/cura 3.2.32 seems to be quite stable
+210819/all except cura update/friend/did it a month early because school start next month
