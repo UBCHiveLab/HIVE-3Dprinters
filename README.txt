@@ -3,7 +3,7 @@ Taz 6 is the first printer we have. We have both dual and single head extruder. 
 TOPRINT (before jan2020):
 - 3 pelvis with img targets
 - 12 L and R ears
-- 1 circle of willis
+- 1 circle of willis (post cerebral art no problemo)
 - 20 brainz
 
 TODO:
