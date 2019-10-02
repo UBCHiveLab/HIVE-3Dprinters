@@ -7,4 +7,5 @@ whiteABS_detail - ABS (Village Plastics)
 whitePLA_standard - PLA (Village Plastics)
 woodPLA_standard - PLA (Village Plastics)
 woodPla1hips2_standard - PLA (Village Plastics) - HIPS (Village Plastics)
+HIPS_standard - HIPS (Village Plastics)
 
