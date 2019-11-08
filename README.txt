@@ -5,6 +5,7 @@ TOPRINT (before jan2020):
 - 20 brainz
 - scanned pelvis and baby head for midwife
 - circle of willis
+- claudia husband's stuff
 
 TODO:
 - get stella's documentation and add to it
