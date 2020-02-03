@@ -14,3 +14,4 @@ Date(ddmmyy)/Maintenance Taken/Performed by/Note
 240619/mo. except air/friend/also cleaned area, printed a tool organizer, re-sorted waste bins into material types, and contacted melt collective for waste recycling
 210819/mo. except air/friend/also cleaned space, disassemble extruders to clean parts;single extruder was out jul22 to aug20 so printer wasn't used much and i skip maintenance
 011019/mo. except air/friend/also cleaned bench
+290120/mo./Arjun/ Cleaned space, cleaned bed 
